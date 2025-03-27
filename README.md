@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalsalunke1234&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalsalunke1234&show_icons=true&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
