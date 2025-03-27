@@ -29,7 +29,7 @@
   <a href="https://leetcode.com/u/salunkekomal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.youtube.com/c/software-rainbow" target="_blank">
+  <a href="https://www.youtube.com/@komalkiransalunke" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
