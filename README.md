@@ -15,7 +15,7 @@
 
 ### 🚀 About Me:
 - 🌱 I’m currently learning **Java, Spring, SpringBoot, Data Structures & Algorithms, Flutter, Dart, and Web Development**
-- 💻 All of my projects are available at: [My Portfolio](https://komalsalunke1234.github.io/komalsalunke.github.io/)
+- 💻 All of my projects are available at: [My Portfolio](https://komalsalunke1234.github.io/komal-portfolio/)
 - 💬 Ask me about **React, Spring, Spring Boot, AWS, and APIs**
 - 📫 Reach me at: **komal.22311095@viit.ac.in**
 
